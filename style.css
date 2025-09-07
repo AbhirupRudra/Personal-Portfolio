@@ -61,6 +61,10 @@ ul {
     padding-left: 20px;
 }
 
+li{
+    padding: 5px 0;
+}
+
 /* Projects */
 article {
     margin-bottom: 20px;
